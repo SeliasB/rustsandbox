@@ -1,0 +1,2 @@
+# rustsandbox
+rust crash course
